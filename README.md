@@ -29,6 +29,7 @@ It would be interesting to analyze the campaign length vs outcome, location of e
 Theater Outcomes by launch date: 
 * The results for theater outcomes by launch date shows theater campaigns launched in May and June had the highest rate of success. Theater campaigns launched in November and December had the lowest success. 
 *	Theater campaigns launched in May, October or July has the highest failed amount. 
+
 Outcomes based on Goals:
 * Campaigns with goals less than $5,000 were the most succesful. The second most successful campaigns were those with goals between $35,0000 to $39,999 and $40,000 to $44999. 
 

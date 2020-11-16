@@ -22,17 +22,16 @@ Using the kickstarter data, we filtered the raw data to create a pivot table to 
 
 ### Challenges and Difficulties Encountered
 Some challenges of this data set are its limited knowledge of marketing, number of people involved in the campaign and economy factors. 
-It would be interesting to analyze the campaign length vs outcome, as well as the year each campaign was launched in. 
+It would be interesting to analyze the campaign length vs outcome, location of each campaign vs. outcome and campaign launch year vs. outcome. 
 
 
 ## Results
 Theater Outcomes by launch date: 
-1.	The results for theater outcomes by launch date shows theater campaigns launched in May and June had the highest rate of success. Theater campaigns launched in November and December had the lowest success. 
-2.	Theater campaigns launched in May, October or July has the highest failed amount. 
+* The results for theater outcomes by launch date shows theater campaigns launched in May and June had the highest rate of success. Theater campaigns launched in November and December had the lowest success. 
+*	Theater campaigns launched in May, October or July has the highest failed amount. 
 Outcomes based on Goals:
-1. Campaigns with goals less than $5,000 were the most succesful. The second most successful campaigns were those with goals between $35,0000 to $39,999 and $40,000 to $44999. 
+* Campaigns with goals less than $5,000 were the most succesful. The second most successful campaigns were those with goals between $35,0000 to $39,999 and $40,000 to $44999. 
 
-Some challenges of this data set are its limited knowledge of marketing, number of people involved in the campaign and economy factors. 
-It would be interesting to analyze the campaign length vs outcome, location of each campaign vs. outcome and campaign launch year vs. outcome. 
+
 
 
